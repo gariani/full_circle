@@ -1,3 +1,4 @@
 {
-  "yaml.schemaStore.enable": false
+  "yaml.schemaStore.enable": false,
+  "conventionalCommits.scopes": ["create a pull request to develop branch"]
 }
